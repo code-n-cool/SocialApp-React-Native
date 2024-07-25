@@ -58,7 +58,7 @@ Social Networking mobile app similar to Instagram in React Native.
 
 ## Run project locally
 
-* clone this Repository by `git clone https://github.com/shahshubh/SocialApp-React-Native.git`.
+* clone this Repository by `git clone https://github.com/shahcode-n-cool/SocialApp-React-Native.git`.
 * Change directory `cd SocialApp-React-Native`
 * Make sure you have expo-cli installed. If not run `npm install -g expo-cli`
 * Install the dependencies using `npm install`
